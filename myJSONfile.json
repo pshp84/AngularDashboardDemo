@@ -1,0 +1,39 @@
+{
+  "dashboard" : [ 
+    {
+      "id": 1,
+      "value" : 16,
+      "fieldname" : "Total number of orders received"
+    }, 
+    {
+      "id": 2,
+      "value" : 25,
+      "fieldname" : "Total number of orders completed"
+    },
+    {
+      "id": 3,
+      "value" : 10,
+      "fieldname" : "Total number of orders cancelled"
+    },
+    {
+      "id": 4,
+      "value" : 8,
+      "fieldname" : "Total revenue for the day"
+    },
+    {
+      "id": 5,
+      "value" : 20,
+      "fieldname" : "Total sales made that week"
+    },
+    {
+      "id": 6,
+      "value" : 13,
+      "fieldname" : "Number of active users"
+    },
+    {
+      "id": 7,
+      "value" : 3,
+      "fieldname" : "Number of active riders"
+    }
+  ]
+}
